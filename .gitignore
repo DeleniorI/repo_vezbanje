@@ -1,0 +1,5 @@
+*.pdf
+# *.log
+logovi/
+logs/log_*
+test_output/
